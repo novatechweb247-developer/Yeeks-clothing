@@ -1,0 +1,6 @@
+{
+  "name": "Yeeks Clothing Enterprise",
+  "description": "Premium online fashion boutique offering exquisite clothing, dresses, traditional wear, and accessories with instant WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
